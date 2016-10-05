@@ -1,0 +1,15 @@
+[05-Oct-2016 12:40:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/sym3/web/app_dev.php:13) in /home/ubuntu/workspace/sym3/web/app_dev.php on line 18
+[05-Oct-2016 12:40:16 UTC] PHP Stack trace:
+[05-Oct-2016 12:40:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/sym3/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/router_dev.php:0
+[05-Oct-2016 12:40:16 UTC] PHP   2. require() /home/ubuntu/workspace/sym3/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/router_dev.php:40
+[05-Oct-2016 12:40:16 UTC] PHP   3. header() /home/ubuntu/workspace/sym3/web/app_dev.php:18
+[05-Oct-2016 12:40:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/sym3/web/app_dev.php:13) in /home/ubuntu/workspace/sym3/web/app_dev.php on line 18
+[05-Oct-2016 12:40:56 UTC] PHP Stack trace:
+[05-Oct-2016 12:40:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/sym3/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/router_dev.php:0
+[05-Oct-2016 12:40:56 UTC] PHP   2. require() /home/ubuntu/workspace/sym3/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/router_dev.php:40
+[05-Oct-2016 12:40:56 UTC] PHP   3. header() /home/ubuntu/workspace/sym3/web/app_dev.php:18
+[05-Oct-2016 12:47:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ubuntu/workspace/sym3/web/app_dev.php:13) in /home/ubuntu/workspace/sym3/web/app_dev.php on line 18
+[05-Oct-2016 12:47:46 UTC] PHP Stack trace:
+[05-Oct-2016 12:47:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/sym3/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/router_dev.php:0
+[05-Oct-2016 12:47:46 UTC] PHP   2. require() /home/ubuntu/workspace/sym3/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Resources/config/router_dev.php:40
+[05-Oct-2016 12:47:46 UTC] PHP   3. header() /home/ubuntu/workspace/sym3/web/app_dev.php:18
